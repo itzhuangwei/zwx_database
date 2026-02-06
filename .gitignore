@@ -1,0 +1,21 @@
+# Obsidian 官方推荐 .gitignore
+.obsidian/plugins/
+!.obsidian/plugins/*/main.js
+!.obsidian/plugins/*/manifest.json
+!.obsidian/plugins/*/styles.css
+
+# 忽略工作区布局、本地设置
+.obsidian/workspace
+.obsidian/workspace-mobile
+.obsidian/app.json
+.obsidian/hotkeys.json
+.obsidian/graph.json
+
+# 忽略缓存和临时文件
+*.tmp
+.DS_Store
+Thumbs.db
+
+# 可选：忽略附件中的大文件（如视频）
+attachments/*.mp4
+attachments/*.mov

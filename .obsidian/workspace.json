@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "创建链接"
             }
-          },
-          {
-            "id": "5666e2f4e3b8218e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "init.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "init"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "init.md",
+                "file": "创建链接.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "init 的反向链接列表"
+              "title": "创建链接 的反向链接列表"
             }
           },
           {
@@ -128,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "init.md",
+                "file": "创建链接.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "init 的出链列表"
+              "title": "创建链接 的出链列表"
             }
           },
           {
@@ -171,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "init.md",
+                "file": "创建链接.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "init 的大纲"
+              "title": "创建链接 的大纲"
             }
           }
         ]
@@ -198,12 +183,13 @@
       "bases:创建新数据库": false
     }
   },
-  "active": "5666e2f4e3b8218e",
+  "active": "37d35255c2a46445",
   "lastOpenFiles": [
-    "创建链接.md",
-    "init.md",
-    "未命名 1.base",
+    "欢迎.md",
     "未命名.base",
-    "欢迎.md"
+    "init.md",
+    "README.md",
+    "创建链接.md",
+    "未命名 1.base"
   ]
 }

@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "15fa2f77ee464254",
+        "id": "907a78ccb316fe3a",
         "type": "tabs",
         "children": [
           {
-            "id": "37d35255c2a46445",
+            "id": "ea9d204c1185f59d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "创建链接.md",
+                "file": "nacos/Nacos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "创建链接"
+              "title": "Nacos"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "82e906c0524cf711",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "创建链接.md",
+                "file": "nacos/Nacos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "创建链接 的反向链接列表"
+              "title": "Nacos 的反向链接列表"
             }
           },
           {
@@ -174,22 +175,25 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:新建数据库": false,
+      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false,
-      "bases:创建新数据库": false
+      "command-palette:打开命令面板": false
     }
   },
-  "active": "37d35255c2a46445",
+  "active": "ea9d204c1185f59d",
   "lastOpenFiles": [
-    "欢迎.md",
-    "未命名.base",
-    "init.md",
     "README.md",
+    "nacos/Nacos.md",
+    "init.md",
+    "未命名.base",
+    "欢迎.md",
     "创建链接.md",
+    "nacos",
     "未命名 1.base"
   ]
 }

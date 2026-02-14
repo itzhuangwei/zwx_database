@@ -1,5 +1,5 @@
 # 一、概述
-## 1 它是什么?
+## 1. 它是什么?
 
 Nacos 全称: Dynamic Naming and Conrfiguration Service
 中文命名: **动态命名与服务配置**
@@ -17,4 +17,6 @@ Nacos 是集 **服务注册/发现 + 动态配置中心 + 服务治理 + AI Agen
 
 动态服务发现 + 服务配置 + 服务元数据 + 流量管理
 
+## 2 . 架构图(最新版3.1+)
+![[Pasted image 20260214085857.png]]
 

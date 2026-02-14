@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "907a78ccb316fe3a",
+        "id": "97999744e6ea01a5",
         "type": "tabs",
         "children": [
           {
-            "id": "ea9d204c1185f59d",
+            "id": "32d65a574bb4b77c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,10 +185,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "ea9d204c1185f59d",
+  "active": "32d65a574bb4b77c",
   "lastOpenFiles": [
-    "README.md",
     "nacos/Nacos.md",
+    "nacos/images/Pasted image 20260214085857.png",
+    "nacos/images",
+    "README.md",
     "init.md",
     "未命名.base",
     "欢迎.md",
